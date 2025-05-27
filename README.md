@@ -9,3 +9,5 @@ This notebook demonstrates a complete variant calling pipeline specifically desi
 5. Processing and quality control of alignments - Ensuring high-quality alignments for reliable variant detection
 6. Variant calling - Identifying SNPs and indels, particularly in genes associated with insecticide resistance
 7. Variant filtering and analysis - Focusing on key variants related to vector control and transmission dynamics
+
+## **Note:** To use the colab notebook, please use the link: https://github.com/Maherjerry/Malaria_Vector_Genomics_Analysis/blob/main/Malaria_Vector_Genomics_Pipeline.ipynb to download the raw IPYNB file and then open using your browser.
